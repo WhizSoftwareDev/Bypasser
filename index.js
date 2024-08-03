@@ -1,5 +1,7 @@
 const domain = window.location.hostname;
-const domainList = [];
+const domainList = [
+    "eofmukindwo.com"
+];
 
 
 if(domain === "ouo.press"){
