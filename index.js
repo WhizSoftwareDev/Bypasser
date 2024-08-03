@@ -1,3 +1,5 @@
+alert("z")
+
 const domain = window.location.hostname;
 const domainList = [
     "eofmukindwo.com"
